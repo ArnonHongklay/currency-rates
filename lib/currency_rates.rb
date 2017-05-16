@@ -1,0 +1,3 @@
+module CurrencyRates
+  # Your code goes here...
+end
